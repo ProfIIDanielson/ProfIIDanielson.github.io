@@ -2,12 +2,12 @@
 layout: pilgrimage
 title: "Seek a Wise Counselor"
 categories: [ Ireland, 8th century ]
-mapurl: "https://www.google.com/maps/place/39°10'13.1%22N+86°31'02.5%22W/@39.1703009,-86.5173569,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1703009!4d-86.5173569"
+mapurl: "https://www.google.com/maps/place/Villa+Maria+Retirement+Community/@42.9837581,-85.7006258,17z/data=!4m6!3m5!1s0x8819ae8c1827ffb7:0xd1fb0a0a2076c17f!8m2!3d42.9837581!4d-85.7006258!16s%2Fg%2F11fmvb3jhn?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
 clue: "On the West Side-Now for Retirees, Once for the Sisters"
 shortdesc: >
     Built in 1904, for the Sisters of the Good Shepherd. Their civic role was as educators for women who were struggling in abusive family situations or were referred by Grand Rapids social services. Called "Penitents", the sisters piroitized education, skills traning, and developing self-suficiency for the young women.
-lat: "39.1703009"
-long: "-86.5173569"
+lat: "42.9837581"
+long: "-85.7006258"
 medievalparalleltitle: "John Moschos' _Spiritual Meadow_"
 medievalmapurl: "https://www.google.com/maps/place/Monastery+of+the+Blessed+Virgin+Mary+(Muharraq)/@27.3818648,30.7752614,17z/data=!3m1!4b1!4m5!3m4!1s0x1444e4c9a5330331:0x697b12a3fb9fc08b!8m2!3d27.3818702!4d30.7774467"
 medievalparallel: |
