@@ -1,11 +1,11 @@
 ---
 layout: pilgrimage
 title: "Seek a Wise Counselor"
-categories: [ Eastern Mediterranean, 6th century ]
+categories: [ Ireland, 8th century ]
 mapurl: "https://www.google.com/maps/place/39°10'13.1%22N+86°31'02.5%22W/@39.1703009,-86.5173569,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1703009!4d-86.5173569"
-clue: "Find me in GISB 1028"
+clue: "On the West Side-Now for Retirees, Once for the Sisters"
 shortdesc: >
-    IU students seek wisdom from people most often trained in the studia humanitatis (i.e. humanities). Such counselors offer advice on the wisdom amd what classes to take and what subjects to explore, can be found all across campus. Seek the most wise counsel for Medieval Studies in the 28th room of the first floor in a shimmering building, made of equal parts glass and stone, near the limestone monolith at the top of the highest hill.
+    Built in 1904, for the Sisters of the Good Shepherd. Their civic role was as educators for women who were struggling in abusive family situations or were referred by Grand Rapids social services. Called "Penitents", the sisters piroitized education, skills traning, and developing self-suficiency for the young women.
 lat: "39.1703009"
 long: "-86.5173569"
 medievalparalleltitle: "John Moschos' _Spiritual Meadow_"
