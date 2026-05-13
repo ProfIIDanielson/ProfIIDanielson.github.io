@@ -8,7 +8,7 @@ shortdesc: >
     Built in 1904, for the Sisters of the Good Shepherd. Their civic role was as educators for women who were struggling in abusive family situations or were referred by Grand Rapids social services. Called "Penitents", the sisters piroitized education, skills traning, and developing self-suficiency for the young women.
 lat: "42.9837581"
 long: "-85.7006258"
-medievalparalleltitle: "John Moschos' _Spiritual Meadow_"
+medievalparalleltitle: "St. Samthann _Convent of Clonbroney in County Longford_"
 medievalmapurl: "https://www.google.com/maps/place/Monastery+of+the+Blessed+Virgin+Mary+(Muharraq)/@27.3818648,30.7752614,17z/data=!3m1!4b1!4m5!3m4!1s0x1444e4c9a5330331:0x697b12a3fb9fc08b!8m2!3d27.3818702!4d30.7774467"
 medievalparallel: |
     Between the end of the sixth and the beginning of the seventh century, Byzantine monk John Moschos and his friend Sophronius undertook a long pilgrimage to meet the ascetics and wise men of the Eastern Christian world. Their last stop was the monastery of Deir ul-Muharraq.
